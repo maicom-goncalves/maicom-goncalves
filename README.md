@@ -2,6 +2,13 @@
 
 ###
 
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/maicom-goncalves/maicom-goncalves/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/maicom-goncalves/maicom-goncalves/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -36,5 +43,15 @@
     <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bluesky logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maicom-goncalves/maicom-goncalves/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maicom-goncalves/maicom-goncalves/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maicom-goncalves/maicom-goncalves/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
 ###
